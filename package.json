@@ -1,0 +1,10 @@
+{
+  "name": "tagsf",
+  "version": "0.0.1",
+  "description": "Library to Help Build a package and Publish it.",
+  "main": "index.js",
+  "repository": "https://github.com/eetancelin/tagsf",
+  "author": "EEtancelin",
+  "license": "MIT",
+  "private": false
+}
